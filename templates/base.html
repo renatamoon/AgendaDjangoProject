@@ -13,6 +13,7 @@
   <div class="container">
     <div class="row">
       <div class="col-lg-12">
+        <h5><b><i>By: Renata Monteiro</i></b></h5>
         <br><br>
             <form method="get" action="{% url 'busca' %}">
               <div class="form-group row">
@@ -22,6 +23,7 @@
                          id="search-input"
                          placeholder="Digite sua pesquisa"
                          name="termo">
+                {% include 'parciais/messages.html'%}
                 </div>
               </div>
             </form>
