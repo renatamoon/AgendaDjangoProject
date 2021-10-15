@@ -14,3 +14,5 @@ Também implementei as fotos dentro dos contatos da agenda.
 Usando o db.sqlite3, todos os registros são guardados no banco de dados. 
 
 O index da página usei modelos de JavaScript e Bootstrap.
+
+Também implementei a interação com o usuário com o DjangoMessages.
