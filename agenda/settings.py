@@ -40,6 +40,7 @@ INSTALLED_APPS = [
     'django.contrib.messages',
     'django.contrib.staticfiles',
     'contatos.apps.ContatosConfig',
+    'accounts.apps.AccountsConfig',
 ]
 
 MIDDLEWARE = [
@@ -102,13 +103,12 @@ AUTH_PASSWORD_VALIDATORS = [
     },
 ]
 
-
 # Internationalization
 # https://docs.djangoproject.com/en/3.2/topics/i18n/
 
-LANGUAGE_CODE = 'en-us'
+LANGUAGE_CODE = 'pt-br' #mudando a linguagem da agenda para Portugues
 
-TIME_ZONE = 'UTC'
+TIME_ZONE = 'America/Sao_Paulo' #colocando o tempo para nosso tempo atual, e nao no relogio dos estados unidos
 
 USE_I18N = True
 

@@ -8,8 +8,11 @@
       <change afterPath="$PROJECT_DIR$/../.idea/misc.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../.idea/modules.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/AgendaProject.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/templates/parciais/messages.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/accounts/templates/accounts/cadastro.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/accounts/templates/accounts/dashboard.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/accounts/templates/accounts/login.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/accounts/templates/accounts/logout.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/accounts/urls.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../ATUAL/pythonProject_POO - Copia" beforeDir="false" afterPath="$PROJECT_DIR$/../ATUAL/pythonProject_POO - Copia" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../Agenda/.idea/.gitignore" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../Agenda/.idea/Agenda.iml" beforeDir="false" />
@@ -21,12 +24,11 @@
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/agenda/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/agenda/settings.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/agenda/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/agenda/urls.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/contatos/models.py" beforeDir="false" afterPath="$PROJECT_DIR$/contatos/models.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/contatos/templates/contatos/busca.html" beforeDir="false" afterPath="$PROJECT_DIR$/contatos/templates/contatos/busca.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/contatos/templates/contatos/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/contatos/templates/contatos/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/contatos/templates/contatos/ver_contato.html" beforeDir="false" afterPath="$PROJECT_DIR$/contatos/templates/contatos/ver_contato.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/contatos/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/contatos/views.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/db.sqlite3" beforeDir="false" afterPath="$PROJECT_DIR$/db.sqlite3" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/templates/base.html" beforeDir="false" afterPath="$PROJECT_DIR$/templates/base.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/templates/parciais/_nav.html" beforeDir="false" afterPath="$PROJECT_DIR$/templates/parciais/_nav.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../pythonProject_POO" beforeDir="false" afterPath="$PROJECT_DIR$/../pythonProject_POO" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
